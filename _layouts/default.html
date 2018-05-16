@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.title }} : {{ site.description }}">
+
+    <title>{{ site.title }}</title>
+
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2|Montserrat:100,200,300,400" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="assets/css/style.css?_={{ site.time | date: '%s' }}">
+</head>
+<body>
+
+<header>
+    <div class="top">
+        <a href="{{ '/' | relative_url }}" class="logo"></a>
+    </div>
+	<!-- add in dates!! --> 
+    <nav>
+        <ul class="nav navbar-nav">
+            {% for menu in site.data.menus %}
+            <li>
+                <a href="{{ menu.url | relative_url }}">{{menu.title}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
+
+<div class="main {{page.additionalclass}}">
+    <section class="inverse">
+        {{content}}
+    </section>
+</div>
+
+<section style="margin: 20px">
+     {% include footer.html %}
+</section>
+
+<footer class="footer">
+    <div>&copy; OWASP {{ site.title }}</div>
+    <div>AppSec Israel is an <a href="https://www.owasp.org/">OWASP conference</a>, hosted by <a href="https://www.owasp.org/index.php/Israel">OWASP Israel Chapter</a>.
+</footer>
+
+</body>
+</html>

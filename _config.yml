@@ -1,0 +1,10 @@
+title: AppSec Israel 2018
+description: OWASP AppSec Israel annual conference - 2018 edition!
+
+# Since GH pages override this to "true", we test this value to see if we are running locally
+safe: false
+
+# Conference dates
+dates: 5-6 September, 2018
+trainingday: September 5th
+confday: September 6th
