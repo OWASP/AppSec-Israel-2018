@@ -4,7 +4,7 @@
 ## Welcome to OWASP's {{ site.title }}! 
 
 ### SAVE THE DATE!! 
-**AppSec Israel 2018 will take place on September 5-6, 2018 in central Tel Aviv.**
+**{{ site.title }} will take place on {{ site.dates }} in central Tel Aviv.**
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
 and regularly draws hundreds of participants. [Over 650 people attended last year](https://2017.appsecil.org)! 
