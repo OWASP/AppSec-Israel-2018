@@ -1,5 +1,5 @@
 - title: Home
-  url  : {{ site.url }}
+  url  : /
 - title: Sponsorship
   url  : Sponsors
 - title: Team
