@@ -3,7 +3,8 @@
 
 ## Sponsors
 
-AppSec Israel Conference and Training are completely free to attend, thanks to the generous support of these sponsors! 
+AppSec Israel Conference and Training are completely free to attend, thanks to the generous support of our sponsors!   
+
 
 ### Interested in becoming a sponsor for {{ site.title }}? 
 
