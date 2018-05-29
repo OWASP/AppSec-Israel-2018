@@ -7,8 +7,7 @@ OWASP's AppSec Israel is made by the people who contribute their time, brains, a
 The following people are working to ensure that OWASP AppSec Israel is a success.    
 
 If you feel that you also can contribute or have interesting ideas regarding the conference,   
-please don't hesitate to contact [Or Katz](mailto:or.katz@gmail.com) directly.
-
+please don't hesitate to contact [Or Katz](mailto:or.katz@owasp.org) directly.
 
 ### Contributors
 
