@@ -7,8 +7,8 @@
 **REGISTRATION IS NOT YET OPEN.**    
 If you wish to be notified when we open registration, please [subscribe to our mailing list](https://lists.owasp.org/mailman/listinfo/owasp-israel), or check back later.   
 
-Attending AppSec Israel is completely free, for both the [Conference](Agenda) and the [Training](Training).   
-However, it is absolutely required to register ahead of time.   
+Attending AppSec Israel is completely free, for both the Conference and the Training.   
+However, it is absolutely required to register ahead of time.  
 
 ---
 
