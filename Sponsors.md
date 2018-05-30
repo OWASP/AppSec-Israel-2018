@@ -13,7 +13,8 @@ This year we are expecting over 700 attendees, including security professionals,
 
 Sponsorship also helps support the OWASP community, and ensures that we can keep on making our conferences better and better. Sponsorship fees are intended to cover the costs of the conference only. If anything is left over, this is used to support the ongoing Chapter activity and improve the Conference even more. Since the Conference is open to all and free of charge to attend, we need your support to enable us to put on a great conference.
 
-We will soon be offering several tiers of premium sponsorship.   
+We are now offering several tiers of premium sponsorship, and various a la carte opportunities.   
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and anyone else that wishes to support the community (Community Supporter level does not get a booth at the conference).  
+For more details on the available sponsorship options please see [Conference Sponsorships]({{ site.url }}/assets/AppSecIL_2018_Sponsorships.pdf).  
 
 For more details and to confirm your sponsorship, please contact [Avi D](mailto:avi.douglen@owasp.org). 
