@@ -6,7 +6,7 @@
 ### SAVE THE DATE!! 
 **{{ site.title }} will take place on {{ site.dates }} in central Tel Aviv.**
 
-#### CFP is opened!! Share your great minds with us at [our Call for Papers](https://www.papercall.io/appsecisrael2018)
+#### The CFP and CFT have now opened!! Share your great minds with us at [our Call for Papers](https://www.papercall.io/appsecisrael2018) or submit your ideas to teach and inspire a new wave of AppSec enthusiasts at [our Call for Training](https://www.papercall.io/appsecisrael2018training).
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
 and regularly draws hundreds of participants. [Over 650 people attended last year](https://2017.appsecil.org)! 
