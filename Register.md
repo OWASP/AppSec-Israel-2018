@@ -4,9 +4,8 @@
 ## Registration 
 
 <p style="text-align:center; margin: 0 auto;">
-<a href="https://www.eventbrite.com/e/appsec-israel-2018-registration-47757880105?ref=elink" target="_blank" style="color:#005580">Register</a>
-</p> 
-
+<a href="https://appsecil2018.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47757880105" alt="Eventbrite - OWASP AppSec Israel 2018" /></a>
+</p>
 <br/> 
 
 Attending AppSec Israel is completely free, for both the [Conference](Agenda) and the [Training](Training).   
