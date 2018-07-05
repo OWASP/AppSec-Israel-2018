@@ -36,7 +36,26 @@ Two exciting lecture tracks from an amazing group of speakers, and additional ac
 We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.    
 Details [here](Agenda).   
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=47757880105&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+<div id="eventbrite-widget-container-47757880105"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '47757880105',
+        iframeContainerId: 'eventbrite-widget-container-47757880105'
+        // Optional
+       // iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+       // onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+
 
 <p style="text-align:center; margin: 0 auto;">
 <br />
