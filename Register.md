@@ -44,7 +44,7 @@ Details [here](Agenda).
         eventId: '47757880105',
         iframeContainerId: 'eventbrite-widget-container-47757880105',
         // Optional
-        iframeContainerHeight: 535
+        iframeContainerHeight: 600
     });
 </script>
 
