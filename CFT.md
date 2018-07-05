@@ -35,3 +35,17 @@ CFT closes: July 25, 2018
 Notification: August 10, 2018   
 Training: September 5, 2018   
 
+
+---
+
+### Travel Assistance 
+
+We are working to dedicate a travel assistance budget for those that require it.  
+
+As a free community event with no profit, we rely on our sponsors to cover all our costs, including free food and drinks all day long. Unfortunately this means we do not have an unlimited budget for all speakers, but if you need assistance we will be able to help cover part of your costs of travel and accommodation.  
+
+However we are limited in how many speakers we can offer to cover, so if you work for a company that can afford to pay for your travel, we will be happy to grant them a Community Supporter sponsorship in recognition. If your company will not (or cannot) cover your travel, we will work with you upon acceptance to ensure you do not incur large expenses to come speak at our conference.  
+
+**This will not affect your acceptance at all. We will not expect you to confirm attendance before we confirm how much assistance we can offer.**  
+
+Additionally, we will cover expenses for training materials such as: printing, disk-on-keys (if needed) or any other reasonable expenses that are required for the training.  
