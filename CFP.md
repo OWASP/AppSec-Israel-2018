@@ -34,10 +34,26 @@ AppSecIL will include 2 lecture tracks. The specific division of these tracks wi
 
 Since we usually get many more “Breaker” talks than Builder or Defender talks, we may give extra weight for these.
 
-### [Please submit your proposal here!](https://www.papercall.io/appsecisrael2018)
+### [Please submit your proposal here!](https://www.papercall.io/appsecisrael2018) 
+
+We use a double-blind review process, wherein the reviewers do not see the identity of the submitter until after the review is complete. We hope this will improve the diversity of our speakers, and encourage new speakers to submit.   
+
+If this will be your first time presenting at a conference, we can offer you a speaker mentor if you want, though it is not mandatory. (Mentorship is available for experienced speakers too :-) )  
 
 ### Timeline 
 
 CFP closes: July 15, 2018  
 Notification: August 5, 2018   
 Conference: September 6, 2018   
+
+---
+
+### Travel Assistance 
+
+We are working to dedicate a travel assistance budget for those that require it.  
+
+As a free community event with no profit, we rely on our sponsors to cover all our costs, including free food and drinks all day long. Unfortunately this means we do not have an unlimited budget for all speakers, but if you need assistance we will be able to help cover part of your costs of travel and accommodation.  
+
+However we are limited in how many speakers we can offer to cover, so if you work for a company that can afford to pay for your travel, we will be happy to grant them a Community Supporter sponsorship in recognition. If your company will not (or cannot) cover your travel, we will work with you upon acceptance to ensure you do not incur large expenses to come speak at our conference.  
+
+**This will not affect your acceptance at all. We will not expect you to confirm attendance before we confirm how much assistance we can offer.**
