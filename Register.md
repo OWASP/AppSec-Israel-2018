@@ -4,7 +4,7 @@
 ## Registration 
 
 <p style="text-align:center; margin: 0 auto;">
-<a href="https://appsecil2018.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47757880105" alt="Eventbrite - OWASP AppSec Israel 2018" /></a>
+<a href="https://appsecil2018.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=37273659519" alt="Eventbrite - OWASP AppSec Israel 2018" /></a>
 </p>
 <br/> 
 
