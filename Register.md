@@ -4,7 +4,7 @@
 ## Registration 
 
 <p style="text-align:center; margin: 0 auto;">
-<a href="https://appsecil2018.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47757880105" alt="Eventbrite - OWASP AppSec Israel 2018" /></a>
+<a href="https://www.eventbrite.com/e/appsec-israel-2018-registration-47757880105?ref=elink" target="_blank" style="color:#005580">Register</a>
 </p> 
 
 <br/> 
@@ -37,22 +37,15 @@ We also host a sponsors pavilion with vendor booths to promote the latest advanc
 Details [here](Agenda).   
 
 <div id="eventbrite-widget-container-47757880105"></div>
-
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
 <script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
         eventId: '47757880105',
-        iframeContainerId: 'eventbrite-widget-container-47757880105'
+        iframeContainerId: 'eventbrite-widget-container-47757880105',
         // Optional
-       // iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-       // onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        iframeContainerHeight: 535
     });
 </script>
 
