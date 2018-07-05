@@ -3,12 +3,45 @@
 
 ## Registration 
 
+<p style="text-align:center; margin: 0 auto;">
+<a href="https://appsecil2018.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47757880105" alt="Eventbrite - OWASP AppSec Israel 2018" /></a>
+</p> 
 
-**REGISTRATION IS NOT YET OPEN.**    
-If you wish to be notified when we open registration, please [subscribe to our mailing list](https://lists.owasp.org/mailman/listinfo/owasp-israel), or check back later.   
+<br/> 
 
-Attending AppSec Israel is completely free, for both the Conference and the Training.   
-However, it is absolutely required to register ahead of time.  
+Attending AppSec Israel is completely free, for both the [Conference](Agenda) and the [Training](Training).   
+However, it is absolutely required to register ahead of time.   
+
+***Please note that you must register for each day you wish to attend!***  
+As space is limited, please do not register if you are not planning to attend, and don't register yourself multiple times.
+
+---
+
+### ***Registration Types*** 
+**You must register individually for each event you want to attend.**   
+(Please do not register unless you plan to attend).  
+
+#### [Training Day](Training)
+Wednesday, September 5th: A full day of free security training for developers, QA engineers, and anyone new to the AppSec field.    
+(This training is NOT for experienced security professionals, please leave the limited space for those who need it!)  
+Details [here](Training).   
+
+#### [Women in AppSec](WIA) - Ladies Only!
+Wednesday Evening, September 5th: This special session, open for women (and female-identifying) only, will take place after the Training Day.  
+Details [here](WIA).   
+
+#### [Conference Day](Agenda)
+Thursday, September 6th: The main event.  
+Two exciting lecture tracks from an amazing group of speakers, and additional activities such as a Capture the Flag competition.   
+We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.    
+Details [here](Agenda).   
+
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=47757880105&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe></div>
+
+<p style="text-align:center; margin: 0 auto;">
+<br />
+<a href="https://appsecil2018.eventbrite.com/?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=47757880105" alt="Eventbrite - OWASP AppSec Israel 2018" /></a>
+</p> 
 
 ---
 
