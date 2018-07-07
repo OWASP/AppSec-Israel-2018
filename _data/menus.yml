@@ -1,12 +1,35 @@
-- title: Home
-  url  : /
-- title: Sponsorship
-  url  : Sponsors
-- title: CFP
-  url:   CFP
-- title: CFT
-  url:   CFT
-- title: Team
-  url  : Team
 - title: Register
-  url  : Register
+  fullurl: https://appsecil2018.eventbrite.com/?ref=ebtnebregn
+- title: Submit
+  items:
+  - title: Call For Trainings
+    url: program/call-for-trainings
+  - title: Call For Papers
+    fullurl: https://www.papercall.io/appsecisrael2018
+  - title: Call for volunteers
+    url  : program/call-for-volunteers
+- title: Sponsor
+  items: 
+  - title: Sponsoring
+    url  : sponsors/
+  - title: Career Fair
+    url: sponsors/career-fair
+- title: Tel-Aviv
+  items:
+  - title: The Venue
+    url  : tel-aviv/venue
+  - title: Hotel
+    url  : sanjose/hotel
+  - title: Travel
+    url  : sanjose/transportation
+- title: About
+  css: maxright
+  items:
+  - title: OWASP
+    url  : about/
+  - title: Contact us
+    url  : about/contact-us
+  - title: Team
+    url  : about/team
+  - title: Diversity statement
+    url  : about/diversity-statement

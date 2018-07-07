@@ -1,49 +1,39 @@
-board: 
-- name: Or Katz
-  title: Akamai
-  role: Conference Chair and OWASPIL Chairman
-  image: 
-- name: Avi D
-  title: Bounce Security
-  role: Sponsor Relations
-  image: 
-- name: Ofer Maor
-  title: Synopsys
-  role: 
-  image: 
-- name: Hemed Gur Ary
-  title: Vata
-  role: 
-  image: 
-- name: Dr. Yossi Oren
-  title: Ben Gurion University
-  role: 
-  image: 
-- name: Irene Abezgauz
-  title: Cymmetria
-  role: Content Chair
-  image: 
+conferenceteam:
+  - name: Travis McPeak
+    role: OWASP Bay Area Chapter Lead
+    image: travis_small.jpg
+  - name: Will Bengtson
+    role: CfP Lead
+    image: will.jpg
+  - name: Wendy Zenone
+    role: CfT Lead
+    image: wendy.jpg
+  - name: Astha Singhal
+    role: Community Outreach Lead
+    image: astha.jpg
+  - name: Christian DeHoyos
+    role: Volunteers Lead
+    image: christian.jpg
+  - name: Erlend Oftedal
+    role: Web site
+    image: erlend.jpg
+staff: 
+  - name: Karen Staley
+    role: Executive Director
+    image: 
+  - name: Harold Blankenship
+    role: Director, Projects and Technology Support
+    image: HB_Profile.jpg
+  - name: Kelly Santalucia
+    role: Membership and Business Liaison
+    image: staff-kelly_santalucia.png
+  - name: Laura Grau
+    role: Event Manager
+    image: Laura-Grau-150x150.png
+  - name: Matt Tesauro
+    role: Director of Community and Operations 
+    image: MattT.jpg
+  - name: Dawn Aitken
+    role: Program Assistant
+    image: Dawn_picture_2.jpg
 
-content:
-- name: Irene Abezgauz
-  title: Cymmetria
-- name: Erez Metula
-  title: AppSec Labs
-- name: Iftach Ian Amit
-  title: Amazon / BSidesLV
-- name: Guy Mizrahi
-  title: RayZone
-
-volunteers:
-- name: Yigal Elefant
-  title: ironSource 
-  role: Website
-- name: Tomer Zait
-  title: F5 Networks
-  role: Website 
-- name: Shira Shamban 
-  title: Dome9, SheCodes
-  role: WIA organizer and moderator
-- name: Keren Elazari 
-  title: Tel Aviv University, BSidesTLV
-  role: WIA organizer and moderator
