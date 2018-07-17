@@ -27,4 +27,4 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
