@@ -1,103 +1,103 @@
 - type: Diamond
   sponsors:
-  - logo: assets/images/sponsors/netsparker.png
+  - logo: netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
 - type: Platinum
   sponsors:
-  - logo: assets/images/sponsors/qualys.png
+  - logo: qualys.png
     name: Qualys
     url: https://www.qualys.com/
-  - logo: assets/images/sponsors/microfocus.png
+  - logo: microfocus.png
     name: Micro Focus
     url: https://www.microfocus.com/solutions/security/
-  - logo: assets/images/sponsors/securitycompass.png
+  - logo: securitycompass.png
     name: Security Compass
     url: https://www.securitycompass.com/
-  - logo: assets/images/sponsors/blackduck.png
+  - logo: blackduck.png
     name: Black Duck by Synopsys
     url: https://www.blackducksoftware.com/
-  - logo: assets/images/sponsors/ca_veracode.png
+  - logo: ca_veracode.png
     name: CA/Veracode
     url: https://www.veracode.com
-  - logo: assets/images/sponsors/nowsecure.png
+  - logo: nowsecure.png
     name: NowSecure
     url: https://www.nowsecure.com/
-  - logo: assets/images/sponsors/whitesource.png
+  - logo: whitesource.png
     name: Whitesource Software
     url: https://www.whitesourcesoftware.com/
 - type: Gold
   sponsors:
-  - logo: assets/images/sponsors/twistlock.png
+  - logo: twistlock.png
     name: Twistlock
     url: www.twistlock.com
-  - logo: assets/images/sponsors/signalsciences.png
+  - logo: signalsciences.png
     name: Signal Sciences
     url: www.signalsciences.com
-  - logo: assets/images/sponsors/wallarm.png
+  - logo: wallarm.png
     name: Wallarm
     url: https://wallarm.com
-  - logo: assets/images/sponsors/contrast.png
+  - logo: contrast.png
     name: Contrast Security
     url: https://www.contrastsecurity.com/
-  - logo: assets/images/sponsors/tcell.png
+  - logo: tcell.png
     name: tcell.io
     url: https://www.tcell.io
-  - logo: assets/images/sponsors/checkmarx.png
+  - logo: checkmarx.png
     name: Checkmarx
     url: https://www.checkmarx.com/
-  - logo: assets/images/sponsors/whitehat_security.jpg
+  - logo: whitehat_security.jpg
     name: WhiteHat Security
     url: https://www.whitehatsec.com/
-  - logo: assets/images/sponsors/Flexera.png
+  - logo: Flexera.png
     name: Flexera
     url: https://www.flexera.com/
 - type: Silver
   sponsors:
-  - logo: assets/images/sponsors/KryptowireLogoSquare.jpg
+  - logo: KryptowireLogoSquare.jpg
     name: Kryptowire
     url: https://www.kryptowire.com/
-  - logo: assets/images/sponsors/securityinnovation.png
+  - logo: securityinnovation.png
     name: Security Innovation
     url: http://www.securityinnovation.com/
-  - logo: assets/images/sponsors/scw.png
+  - logo: scw.png
     name: Secure Code Warrior
     url: https://securecodewarrior.com/
-  - logo: assets/images/sponsors/sonatype.png
+  - logo: sonatype.png
     name: Sonatype
     url: http://www.sonatype.com/
-  - logo: assets/images/sponsors/rips.png
+  - logo: rips.png
     name: RIPS Technologies
     url: https://www.ripstech.com/
-  - logo: assets/images/sponsors/aporeto.png
+  - logo: aporeto.png
     name: Aporeto
     url: http://www.aporeto.com/
-  - logo: assets/images/sponsors/codedx.png
+  - logo: codedx.png
     name: CodeDx
     url: https://codedx.com/
-  - logo: assets/images/sponsors/Acunetix.png
+  - logo: Acunetix.png
     name: Acunetix
     url: https://www.acunetix.com/
-  - logo: assets/images/sponsors/facebook.png
+  - logo: facebook.png
     name: Facebook
     url: https://www.facebook.com/whitehat/report/
-  - logo: assets/images/sponsors/continuumsecurity.png
+  - logo: continuumsecurity.png
     name: Continuum Security
     url: https://www.continuumsecurity.net/
     backgroundSize: "contain; height: 110px; margin: 30px 10px;"
-  - logo: assets/images/sponsors/Denim_Group_logo.jpg
+  - logo: Denim_Group_logo.jpg
     name: Denim Group
     url: https://www.denimgroup.com/
-  - logo: assets/images/sponsors/tala.png
+  - logo: tala.png
     name: Tala
     url: https://www.talasecurity.io
 - type: Lanyard
   sponsors:
-  - logo: assets/images/sponsors/netsparker.png
+  - logo: netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
 - type: Capture the Flag
   sponsors:
-  - logo: assets/images/sponsors/duo.png
+  - logo: duo.png
     name: Duo Security
     url: https://duo.com/
