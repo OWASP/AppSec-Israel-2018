@@ -1,11 +1,11 @@
 - type: Diamond
   sponsors:
-  - logo: netsparker.png
+  - logo: /netsparker.png
     name: Netsparker
     url: https://www.netsparker.com/
 - type: Platinum
   sponsors:
-  - logo: qualys.png
+  - logo: ./qualys.png
     name: Qualys
     url: https://www.qualys.com/
   - logo: microfocus.png
