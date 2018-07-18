@@ -13,7 +13,7 @@ board:
   image: 
 - name: Hemed Gur Ary
   title: Vata
-  role: 
+  role: volunteers
   image: 
 - name: Dr. Yossi Oren
   title: Ben Gurion University
@@ -21,23 +21,28 @@ board:
   image: 
 - name: Irene Abezgauz
   title: Cymmetria
-  role: Content Chair
+  role: 
   image: 
 
 content:
+- name: Shira Shamban - Content Chair
+  title: Dome9, SheCodes
 - name: Irene Abezgauz
   title: Cymmetria
-- name: Erez Metula
-  title: AppSec Labs
+- name: Ory Segal
+  title: PureSec
 - name: Iftach Ian Amit
-  title: Amazon / BSidesLV
+  title: Cimpress / BSidesLV
 - name: Guy Mizrahi
   title: RayZone
 
+training day:
+- name: Yigal Elefantn
+  title: ironSource
+- name: Josh Grossman
+  title: Comsec
+
 volunteers:
-- name: Yigal Elefant
-  title: ironSource 
-  role: Website
 - name: Tomer Zait
   title: F5 Networks
   role: Website 
@@ -47,3 +52,6 @@ volunteers:
 - name: Keren Elazari 
   title: Tel Aviv University, BSidesTLV
   role: WIA organizer and moderator
+ -name: Reut Menashe
+  title: WIA organizer and moderator
+  role: BSidesTLV
