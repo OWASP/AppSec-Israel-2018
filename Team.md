@@ -27,6 +27,15 @@ All the talks at AppSecIL are being reviewed and selected by the Content Committ
 
 <br /> 
 
+The training day is being organized by:
+
+{% for member in site.data.team.training %}
+ - {{ member.name }} ({{ member.title }})
+{% endfor %}
+
+<br /> 
+
+
 We also have a lot of help from volunteers, including: 
 
 {% for member in site.data.team.volunteers %}
