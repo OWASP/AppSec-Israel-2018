@@ -6,9 +6,26 @@ diamond:
 platinum: 
 
 gold:
-
+- name : Imperva
+  url  : https://www.imperva.com/
+  image: Imperva_Clr.png
+- name : WhiteSource
+  url  : https://www.whitesourcesoftware.com/
+  image: Whitesource.png  
+  
 silver: 
-
-community:
+- name : Twistlock
+  url  : https://www.twistlock.com/
+  image: Twistlock.png
+  
+community: 
+- name : Hak5
+  url  : https://www.hak5.org/
+  image: Hak5Gear.png
 
 alacarte:
+- name : WhiteSource
+  url  : https://www.whitesourcesoftware.com/
+  image: Whitesource.png  
+  type:  WIA
+  
