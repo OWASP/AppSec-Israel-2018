@@ -3,11 +3,11 @@
 - title: Program
   items:
   - title: Keynotes
-    url: program/call-for-trainings
+    url: program/keynotes
   - title: Full Program
-    fullurl: https://www.papercall.io/appsecisrael2018
+    fullurl: program/full-program
   - title: Training
-    url  : program/call-for-volunteers
+    url  : program/training-day
 - title: Sponsor
   items: 
   - title: Sponsoring
