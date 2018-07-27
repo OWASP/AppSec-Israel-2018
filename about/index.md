@@ -1,13 +1,13 @@
 ---
-title: About AppSec USA 2018
+title: About AppSec IL 2018
 layout: multisection
 ---
 <section markdown="1">
-# About AppSec USA 2018
+# About AppSec IL 2018
 
 Never been to an OWASP AppSec conference? Here’s a bit of information to provide some background.
 
-What happens at an AppSec USA Conference?
+What happens at an AppSec IL Conference?
 
 * Technical talks by experts in security, devops and cloud
 * Panels to debate tough topics
