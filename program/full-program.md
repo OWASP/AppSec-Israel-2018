@@ -32,6 +32,7 @@ If you are responsible for, or involved with:
 * software development
 * quality assurance
 * software maintenance or operations
+
 … you should join us at AppSecIL!
 
 
