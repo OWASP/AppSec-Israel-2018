@@ -7,6 +7,7 @@ title: Conference Code of Conduct
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 === NEED HELP? ===
+
 Find any of the organizers or staff members. Volunteers will also be on hand to help you in any situation.
 
 THE QUICK VERSION
