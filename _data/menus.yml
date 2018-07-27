@@ -1,12 +1,12 @@
 - title: Register
   fullurl: https://appsecil2018.eventbrite.com/?ref=ebtnebregn
-- title: Submit
+- title: Program
   items:
-  - title: Call For Trainings
+  - title: Keynotes
     url: program/call-for-trainings
-  - title: Call For Papers
+  - title: Full Program
     fullurl: https://www.papercall.io/appsecisrael2018
-  - title: Call for volunteers
+  - title: Training
     url  : program/call-for-volunteers
 - title: Sponsor
   items: 
@@ -16,12 +16,12 @@
     url: /docs/AppSecIL_2018_Sponsorships.pdf
 - title: Tel-Aviv
   items:
-  - title: The Venue
+  - title: The City
     url  : tel-aviv/venue
   - title: Hotel
-    url  : sanjose/hotel
+    url  : tel-aviv/hotel
   - title: Travel
-    url  : sanjose/transportation
+    url  : tel-aviv/transportation
 - title: About
   css: maxright
   items:
