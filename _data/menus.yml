@@ -20,7 +20,7 @@
   - title: To Do in Tel-Aviv
     url  : tel-aviv/to-do
   - title: Travel
-    url  : tel-aviv/transportation
+    fullurl  : https://www.tau.ac.il/how-to-reach-us
 - title: About
   css: maxright
   items:
