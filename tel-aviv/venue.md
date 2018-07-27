@@ -1,37 +1,22 @@
----
-image: fairmont/conf.jpg
-title: Fairmont San Jose
-layout: multisection
----
++---
++title: About Tel Aviv
++---
++
++# {{page.title}}
++
++Ever since the establishment of the State of Israel, Tel Aviv, Israel's largest city, has served as the financial, entertainment, and cultural center of the country.  Founded in 1909 and built on the sand dunes that stretch northward from the old city of Jaffa, Tel Aviv lies on a beautiful beach strip of the Mediterranean.
++
++Tel Aviv abounds with hotels, museums, galleries, theatres and entertainment venues, markets, shopping malls, restaurants, bars and outdoor cafes, all bustling with nonstop active day and night.
++
++Typical of so much of Israel, Tel Aviv juxtaposes the old and the new. The old port of Jaffa, with its colorful artists' quarter and flea market, reflects the special atmosphere of ancient times, while the modern hotels, skyscrapers and busy shopping malls, portray the brisk vibrant city life.
++
++A modern cultural center, Tel Aviv, boasts many fine art galleries, entertainment centers and museums like the multi-media at the Jewish Diaspora Museum. The world famous Israel Philharmonic Orchestra performs at the Mann Auditorium, next to Israel's Habima National Theater. The Golda Meir Center for Performing Arts is home to Israel opera, dance companies, theater companies and concerts, and the Suzanne Dellal Dance Center, situated in the old Neve Zedek Quarter of the city, offers exciting programs.
++
++Apart from the open air markets and shopping malls, popular street shopping areas like the bohemian Sheinkin Street and Neve Zedek, portray the newest trends in fashion and styles.
++
++Tel Aviv is a perfect choice for hosting international meetings. In addition to the scheduled workshop sessions, participants are offered the opportunity to enjoy the vibrant spirit of the city.
 
-<section class="image" style="background-image: url(/assets/images/simpleback.svg), url(/assets/images/fairmont/conf.jpg); background-position: top center; min-height: 400px;">
-
-</section>
-
-
-<section markdown="1">
-# {{page.title}}
-
-170 South Market Street  
-San Jose  
-California, United States  
-95113  
-
-TEL + 1 408 998 1900  
-FAX + 408 287 1648
-
-
-
-
-Located in the heart of Silicon Valley, Fairmont San Jose offers refined elegance and sophistication set amid the magnificent backdrop of Northern California. The iconic landmark hotel in Downtown San Jose offers 805 well-appointed guest rooms, including 77 lavish suites and 65,000 square feet of state-of-the-art meeting and event space.
-
-### Experience the Best of Silicon Valley
-
-Fairmont San Jose is conveniently located in Downtown San Jose, surrounded by some of the city’s most popular attractions. Explore the surrounding city or plan a quick day trip - the hotel is a short drive from redwood forests, wineries, San Francisco and the Monterey peninsula
-
-
-</section>
-
-<section class="nopadding">
-	<img src="/assets/images/images-001.png" style="width: 100%">
-</section>
++## Climate and Clothing
++
++The weather in Tel Aviv in June is hot with highs of approx. 30°C during the day and lows of 20°C
++in the evening.
