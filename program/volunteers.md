@@ -5,7 +5,7 @@ title: Call for Volunteers
 
 We would love your help!
 
-Please email [someone@owasp.org](mailto:someone@owasp.org) for volunteer-related questions. 
+Please email [someone@owasp.org](mailto:someone@owasp.org) for volunteer-related questions. <br />
 Travel and lodging are still the responsibility of the individual, unfortunately we cannot cover those.
 
 Sign up here:
