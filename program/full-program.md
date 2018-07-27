@@ -24,14 +24,14 @@ Everyone involved with the software lifecycle is welcome, regardless of type of 
 If you are responsible for, or involved with:
 
 
-web security
-devops security
-cloud security
-mobile security
-application security
-software development
-quality assurance
-software maintenance or operations
+* web security
+* devops security
+* cloud security
+* mobile security
+* application security
+* software development
+* quality assurance
+* software maintenance or operations
 … you should join us at AppSecIL!
 
 
