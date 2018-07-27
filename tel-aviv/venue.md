@@ -26,5 +26,5 @@ Tel Aviv is a perfect choice for hosting international meetings. In addition to 
 ## Climate and Clothing
 
 
-The weather in Tel Aviv in June is hot with highs of approx. 30°C during the day and lows of 20°C
+The weather in Tel Aviv in early September is hot with highs of approx. 30°C during the day and lows of 20°C
 in the evening.
