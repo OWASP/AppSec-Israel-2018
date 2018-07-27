@@ -1,11 +1,11 @@
 - title: Home
   url  : /
-- title: Sponsorship
-  url  : Sponsors
 - title: CFP
   url:   CFP
 - title: CFT
   url:   CFT
+- title: Sponsors
+  url  : Sponsors
 - title: Team
   url  : Team
 - title: Register
