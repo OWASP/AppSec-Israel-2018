@@ -1,39 +1,51 @@
-conferenceteam:
-  - name: Travis McPeak
-    role: OWASP Bay Area Chapter Lead
-    image: travis_small.jpg
-  - name: Will Bengtson
-    role: CfP Lead
-    image: will.jpg
-  - name: Wendy Zenone
-    role: CfT Lead
-    image: wendy.jpg
-  - name: Astha Singhal
-    role: Community Outreach Lead
-    image: astha.jpg
-  - name: Christian DeHoyos
-    role: Volunteers Lead
-    image: christian.jpg
-  - name: Erlend Oftedal
-    role: Web site
-    image: erlend.jpg
-staff: 
-  - name: Karen Staley
-    role: Executive Director
+staff:
+  - name: Or Katz (Akamai)
+    role: Conference Chair and OWASPIL Chairman
     image: 
-  - name: Harold Blankenship
-    role: Director, Projects and Technology Support
-    image: HB_Profile.jpg
-  - name: Kelly Santalucia
-    role: Membership and Business Liaison
-    image: staff-kelly_santalucia.png
-  - name: Laura Grau
-    role: Event Manager
-    image: Laura-Grau-150x150.png
-  - name: Matt Tesauro
-    role: Director of Community and Operations 
-    image: MattT.jpg
-  - name: Dawn Aitken
-    role: Program Assistant
-    image: Dawn_picture_2.jpg
+  - name: Avi D (Bounce Security)
+    role: Sponsor Relations
+    image: 
+  - name: Ofer Maor (Synopsys)
+    role: 
+    image: 
+  - name: Hemed Gur Ary (Vata)
+    role: Volunteers Lead
+    image: 
+  - name: Dr. Yossi Oren (Ben Gurion University)
+    role:
+    image:
+  - name: Irene Abezgauz (Cymmetria)
+    role: 
+    image: 
+conferenceteam: 
+  - name: Shira Shamban (Dome9, SheCodes)
+    role: Content Chair & WIA organizer and moderator
+    image: 
+  - name: Irene Abezgauz (Cymmetria)
+    role: Content Committee
+    image: 
+  - name: Ory Segal (PureSec)
+    role: Content Committee
+    image: 
+  - name: Iftach Ian Amit (Cimpress / BSidesLV)
+    role: Content Committee
+    image: 
+  - name: Guy Mizrahi (RayZone)
+    role: Content Committee
+    image: 
+  - name: Yigal Elefant (IronSource)
+    role: Training Day & Website
+    image: 
+  - name: Josh Grossman (Comsec)
+    role: Training Day
+    image: 
+  - name: Tomer Zait (F5 Networks)
+    role: Training Day & Website
+    image: 
+  - name: Keren Elazari (Tel Aviv University, BSidesTLV)
+    role: WIA organizer and moderator
+    image: 
+  - name: Reut Menashe (BSidesTLV)
+    role: WIA organizer and moderator
+    image: 
 
