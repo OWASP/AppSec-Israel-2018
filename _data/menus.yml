@@ -17,8 +17,8 @@
   items:
   - title: The City
     url  : tel-aviv/venue
-  - title: Hotel
-    url  : tel-aviv/hotel
+  - title: To Do in Tel-Aviv
+    url  : tel-aviv/to-do
   - title: Travel
     url  : tel-aviv/transportation
 - title: About
