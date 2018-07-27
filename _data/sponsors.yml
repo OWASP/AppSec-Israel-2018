@@ -1,10 +1,8 @@
-diamond:
-#- name: GE Digital
-#  url: https://www.ge.com/digital/
-#  image: GE_digital.png
-
 platinum: 
-
+- name : CyberArk
+  url  : https://www.cyberark.com/
+  image: Cyberark.png
+  
 gold:
 - name : Imperva
   url  : https://www.imperva.com/
@@ -17,15 +15,47 @@ silver:
 - name : Twistlock
   url  : https://www.twistlock.com/
   image: Twistlock.png
+- name : SeeHR
+  url  : http://www.see-security.com/
+  image: SeeHR.jpg
+- name : F5
+  url  : https://www.f5.com/
+  image: F5-logo.png
+- name : Comsec
+  url  : https://comsecglobal.com/
+  image: Comsec.png
+- name : Tufin
+  url  : https://www.tufin.com/
+  image: Tufin.jpg
+- name : Snyk
+  url  : https://snyk.io/
+  image: Snyk.png
   
 community: 
 - name : Hak5
   url  : https://www.hak5.org/
   image: Hak5Gear.png
+- name : SheCodes
+  url  : https://she-codes.org/
+  image: SheCodes.png
+- name : Trustwave
+  url  : https://www.trustwave.com/
+  image: Trustwave.png
+- name : Kenna Security
+  url  : https://www.kennasecurity.com/
+  image: kennasecurity.png
 
 alacarte:
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
   image: Whitesource.png  
-  type:  WIA
+  type : WIA
+- name : CyberArk
+  url  : https://www.cyberark.com/
+  image: Cyberark.png
+  type : Lanyards
+- name : Dome9
+  url  : https://dome9.com/
+  image: Dome9.png
+  type : T-Shirts 
   
