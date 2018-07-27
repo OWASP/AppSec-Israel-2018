@@ -1,15 +1,28 @@
 ---
-title: Diversity statement
+title: Conference Code of Conduct
 ---
 
 # {{page.title}}
 
-The crux of security is the ability to think flexibly and creatively about multi-stakeholder problems. It is the goal of OWASP to connect the community and enable serendipity, in order to accelerate the speed of change. In our view, security can only be enhanced when practitioners approach problems with diverse critical thinking theories and practices. To this end OWASP seeks to be an inclusive organization for practitioners from all cultural, gender, language, educational, ability, religious, and career backgrounds.  OWASP actively encourages speakers, trainers, and leaders of all sexual orientations, ages, and ethnicity.  Our formal efforts in this vein include blind evaluations of talk and training proposals for our Global AppSec Conferences and active recruiting of diverse invited speakers.
+All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
-Ways you can help:
+NEED HELP?
+Find any of the organizers or staff members. Volunteers will also be on hand to help you in any situation.
 
-* Encourage the amazing speakers and trainers you know to apply
-* Forward our call for papers to your local affinity groups and ensure that they know OWASP is an inclusive place to speak.
-* Speak at your local affinity group’s meetings about the opportunities at OWASP and invite them to attend local meetings and events.
-* Suggest ways that the onsite conference experience can be more welcoming and supportive. Send an email to: [AppSecUSA2018@owasp.org](mailto:AppSecUSA2018@owasp.org)
+THE QUICK VERSION
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, race, religion, etc.. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without recompense at the discretion of the conference organisers.
 
+THE LESS QUICK VERSION
+Harassment includes offensive verbal comments related to gender, race, religion, etc technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+
+If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they'll be wearing branded t-shirts.
+
+Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+We expect participants to follow these rules at conference and workshop venues and conference-related social events.
