@@ -5,14 +5,13 @@
   - title: Keynotes
     url: program/keynotes
   - title: Full Program
-    fullurl: program/full-program
+    url: program/full-program
   - title: Training
     url  : program/training-day
   - title: Call For Volunteers
     url  : program/volunteers
-
 - title: Sponsor Us!
-  url: /docs/AppSecIL_2018_Sponsorships.pdf
+  url: docs/AppSecIL_2018_Sponsorships.pdf
 - title: Tel-Aviv
   items:
   - title: The City
