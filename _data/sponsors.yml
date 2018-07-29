@@ -1,103 +1,67 @@
-- type: Diamond
-  sponsors:
-  - logo: netsparker.png
-    name: Netsparker
-    url: https://www.netsparker.com/
+#- type: Diamond
+#  sponsors:
+#  - logo: netsparker.png
+#    name: Netsparker
+#    url: https://www.netsparker.com/
 - type: Platinum
   sponsors:
-  - logo: qualys.png
-    name: Qualys
-    url: https://www.qualys.com/
-  - logo: microfocus.png
-    name: Micro Focus
-    url: https://www.microfocus.com/solutions/security/
-  - logo: securitycompass.png
-    name: Security Compass
-    url: https://www.securitycompass.com/
-  - logo: blackduck.png
-    name: Black Duck by Synopsys
-    url: https://www.blackducksoftware.com/
-  - logo: ca_veracode.png
-    name: CA/Veracode
-    url: https://www.veracode.com
-  - logo: nowsecure.png
-    name: NowSecure
-    url: https://www.nowsecure.com/
-  - logo: whitesource.png
-    name: Whitesource Software
-    url: https://www.whitesourcesoftware.com/
+  - logo: Cyberark.png
+    name: CyberArk
+    url: https://www.cyberark.com/
 - type: Gold
   sponsors:
-  - logo: twistlock.png
-    name: Twistlock
-    url: www.twistlock.com
-  - logo: signalsciences.png
-    name: Signal Sciences
-    url: www.signalsciences.com
-  - logo: wallarm.png
-    name: Wallarm
-    url: https://wallarm.com
-  - logo: contrast.png
-    name: Contrast Security
-    url: https://www.contrastsecurity.com/
-  - logo: tcell.png
-    name: tcell.io
-    url: https://www.tcell.io
-  - logo: checkmarx.png
-    name: Checkmarx
-    url: https://www.checkmarx.com/
-  - logo: whitehat_security.jpg
-    name: WhiteHat Security
-    url: https://www.whitehatsec.com/
-  - logo: Flexera.png
-    name: Flexera
-    url: https://www.flexera.com/
+  - logo: Imperva_Clr.png
+    name: Imperva
+    url: https://www.imperva.com/
+  - logo: Whitesource.png
+    name: WhiteSource
+    url: https://www.whitesourcesoftware.com/
 - type: Silver
   sponsors:
-  - logo: KryptowireLogoSquare.jpg
-    name: Kryptowire
-    url: https://www.kryptowire.com/
-  - logo: securityinnovation.png
-    name: Security Innovation
-    url: http://www.securityinnovation.com/
-  - logo: scw.png
-    name: Secure Code Warrior
-    url: https://securecodewarrior.com/
-  - logo: sonatype.png
-    name: Sonatype
-    url: http://www.sonatype.com/
-  - logo: rips.png
-    name: RIPS Technologies
-    url: https://www.ripstech.com/
-  - logo: aporeto.png
-    name: Aporeto
-    url: http://www.aporeto.com/
-  - logo: codedx.png
-    name: CodeDx
-    url: https://codedx.com/
-  - logo: Acunetix.png
-    name: Acunetix
-    url: https://www.acunetix.com/
-  - logo: facebook.png
-    name: Facebook
-    url: https://www.facebook.com/whitehat/report/
-  - logo: continuumsecurity.png
-    name: Continuum Security
-    url: https://www.continuumsecurity.net/
-    backgroundSize: "contain; height: 110px; margin: 30px 10px;"
-  - logo: Denim_Group_logo.jpg
-    name: Denim Group
-    url: https://www.denimgroup.com/
-  - logo: tala.png
-    name: Tala
-    url: https://www.talasecurity.io
-- type: Lanyard
+  - logo: Twistlock.png
+    name: Twistlock
+    url: https://www.twistlock.com/
+  - logo: SeeHR.jpg
+    name: SeeHR
+    url: http://www.see-security.com/
+  - logo: F5-logo.png
+    name: F5
+    url: https://www.f5.com/
+  - logo: Comsec.png
+    name: Comsec
+    url: https://comsecglobal.com/
+  - logo: Tufin.jpg
+    name: Tufin
+    url: https://www.tufin.com/
+  - logo: Snyk.png
+    name: Snyk
+    url: https://snyk.io/
+- type: Community
   sponsors:
-  - logo: netsparker.png
-    name: Netsparker
-    url: https://www.netsparker.com/
-- type: Capture the Flag
+  - logo: Hak5Gear.png
+    name: Hak5
+    url: https://www.hak5.org/
+  - logo: SheCodes.png
+    name: SheCodes
+    url: https://she-codes.org/
+  - logo: Trustwave.png
+    name: Trustwave
+    url: https://www.trustwave.com/
+  - logo: kennasecurity.png
+    name: Kenna Security
+    url: https://www.kennasecurity.com/
+- type: WIA
   sponsors:
-  - logo: duo.png
-    name: Duo Security
-    url: https://duo.com/
+  - logo: Whitesource.png
+    name: WhiteSource
+    url: https://www.whitesourcesoftware.com/
+- type: Lanyards
+  sponsors:
+  - logo: Cyberark.png
+    name: CyberArk
+    url: https://www.cyberark.com/
+- type: T-Shirts
+  sponsors:
+  - logo: Dome9.png
+    name: Dome9
+    url: https://dome9.com/
