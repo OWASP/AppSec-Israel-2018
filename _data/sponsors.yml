@@ -38,6 +38,9 @@ community:
 - name : SheCodes
   url  : https://she-codes.org/
   image: SheCodes.png
+- name : Violet Sky
+  url  : https://www.violetskysecurity.com
+  image: VioletSky.png
 - name : Trustwave
   url  : https://www.trustwave.com/
   image: Trustwave.png
@@ -46,6 +49,10 @@ community:
   image: kennasecurity.png
 
 alacarte:
+- name : Violet Sky
+  url  : https://www.violetskysecurity.com
+  image: VioletSky.png
+  type : Video
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
   image: Whitesource.png  
