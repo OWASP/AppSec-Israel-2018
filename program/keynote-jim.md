@@ -1,6 +1,6 @@
 ---
 title: |
-  Keynote: Chenxi Wang - Defensible Application Security for the Artificial Intelligence Era
+  Keynote: Jim Manico - founder of Manicode Security
 ---
 {% assign keynote = site.data.keynotespeakers[0] %}
 
