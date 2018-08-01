@@ -10,6 +10,9 @@ gold:
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
   image: Whitesource.png  
+- name : AppSec Labs
+  url  : https://www.appsec-labs.com/
+  image: AppSecLabs.jpg
   
 silver: 
 - name : Twistlock
@@ -18,6 +21,9 @@ silver:
 - name : SeeHR
   url  : http://www.see-security.com/
   image: SeeHR.jpg
+- name : SafeBreach
+  url  : https://www.safebreach.com/
+  image: SafeBreach.png
 - name : F5
   url  : https://www.f5.com/
   image: F5-logo.png
