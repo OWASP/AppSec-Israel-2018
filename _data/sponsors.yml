@@ -13,6 +13,9 @@ gold:
 - name : AppSec Labs
   url  : https://www.appsec-labs.com/
   image: AppSecLabs.jpg
+- name : Checkmarx
+  url  : https://www.checkmarx.com/ 
+  image: Checkmarx.png
   
 silver: 
 - name : Twistlock
