@@ -32,6 +32,8 @@ If you are responsible for, or involved with:
 {{ site.title }} will have two lecture tracks from an amazing group of speakers, some hands-on workshops, and additional activities such as a Capture the Flag competition.   
 We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.   
 
+{% include keynotes.md %}
+
 Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!     
 
 **Attendance is free, but [registration is required](Register)!**
