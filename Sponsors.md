@@ -70,6 +70,24 @@ For more details and to confirm your sponsorship, please contact [Avi D](mailto:
 </div>
 {% endif %}
 
+{% if site.data.sponsors.training %}
+#### Training Sponsors 
+<div class="sponsor-tier">
+  {% for sponsor in site.data.sponsors.training %}
+	  <span class="sponsor training-sponsor">
+		<a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+		  {% if sponsor.image == %}
+			<span>{{ sponsor.name }}</span>
+		  {% else %} 
+			<img src="assets/img/Sponsors/{{ sponsor.image }}">
+		  {% endif %}
+		</a>
+	  </span>
+  {% endfor %}
+</div>
+{% endif %}
+
+
 {% if site.data.sponsors.silver %}
 ##### Silver Sponsors
 <div class="sponsor-tier">
