@@ -16,26 +16,7 @@
 </head>
 <body>
 
-<header>
-    <div class="top">
-        <a href="{{ '/' | relative_url }}" class="logo"></a>
-	<span style="align:right">
-		<div style="text-align:right;" >
-			<iframe  src="https://www.eventbrite.com/countdown-widget?eid=47757880105" frameborder="0" height="184" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
-		</div>
-    	</span>
-    </div>
-	<!-- add in dates!! --> 
-    <nav>
-        <ul class="nav navbar-nav">
-            {% for menu in site.data.menus %}
-            <li>
-                <a href="{{ menu.url | relative_url }}">{{menu.title}}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </nav>
-</header>
+{% include header.md %}
 
 <div class="main {{page.additionalclass}}">
     <section class="inverse">
@@ -43,14 +24,7 @@
     </section>
 </div>
 
-<section style="margin: 20px">
-     {% include footer.html %}
-</section>
-
-<footer class="footer">
-    <div>&copy; OWASP {{ site.title }}</div>
-    <div>AppSec Israel is an <a href="https://www.owasp.org/">OWASP conference</a>, hosted by <a href="https://www.owasp.org/index.php/Israel">OWASP Israel Chapter</a>.
-</footer>
+{% include footer.html %}
 
 </body>
 </html>
