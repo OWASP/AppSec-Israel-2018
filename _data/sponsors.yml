@@ -39,6 +39,9 @@ silver:
 - name : Snyk
   url  : https://snyk.io/
   image: Snyk.png
+- name : Synopsys
+  url  : https://www.synopsys.com/software/pages/default.aspx 
+  image: synopsys.jpg
   
 community: 
 - name : Hak5
