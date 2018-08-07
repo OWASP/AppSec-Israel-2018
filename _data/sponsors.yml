@@ -53,6 +53,9 @@ community:
 - name : Violet Sky
   url  : https://www.violetskysecurity.com
   image: VioletSky.png
+- name : Soluto
+  url : https://www.solutotlv.com/
+  image: Soluto.png
 - name : Trustwave
   url  : https://www.trustwave.com/
   image: Trustwave.png
