@@ -11,4 +11,4 @@ please don't hesitate to contact [Or Katz](mailto:or.katz@owasp.org) directly.
 
 ### Contributors
 
-<a id="sched-embed" href="{{ site.sched }}/directory/artists" data-sched-bg="dark" data-sched-sidebar="no">View the AppSec Israel 2018 schedule &amp; directory.</a><script type="text/javascript" src="{{ site.sched }}/js/embed.js"></script>
+<a id="sched-embed" href="https://{{ site.sched }}/directory/artists" data-sched-bg="dark" data-sched-sidebar="no">View the AppSec Israel 2018 schedule &amp; directory.</a><script type="text/javascript" src="https://{{ site.sched }}/js/embed.js"></script>
