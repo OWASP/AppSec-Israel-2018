@@ -10,13 +10,19 @@ gold:
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
   image: Whitesource.png  
+- name : Akamai
+  url  : https://www.akamai.com/
+  image: Akamai.png
 - name : AppSec Labs
   url  : https://www.appsec-labs.com/
   image: AppSecLabs.jpg
 - name : Checkmarx
   url  : https://www.checkmarx.com/ 
   image: Checkmarx.png
-  
+- name : PerimeterX
+  url  : https://www.perimeterx.com/
+  image: PerimeterX.png
+
 silver: 
 - name : Twistlock
   url  : https://www.twistlock.com/
