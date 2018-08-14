@@ -2,11 +2,11 @@
 ---
 
 ## Women In AppSec - Ladies-only Evening event! 
-A special Cyber Ladies-WIA Meetup, at the end of the [Training Day](Training) on {{ site.trainingday }}..
-Weather if you're a security ninja, or just a newbie in cyber - you're welcome to join us. Take this opportunity to meet new ladies like yourself, or get some guidance from our mentors. Enrich yourself in a technical talk in addition to an inspirational one.
-See you on September 5th, in Bar-Shira hall at Tel-Aviv University.
+A special Cyber Ladies-WIA Meetup, at the end of the [Training Day](Training) on {{ site.trainingday }}.
 
-Whether you're a student, a fresh graduate or already working in the industry, this event is for you!  
+Weather if you're a security ninja, or just a newbie in cyber - you're welcome to join us. Take this opportunity to meet new ladies like yourself, or get some guidance from our mentors. Enrich yourself in a technical talk in addition to an inspirational one.
+
+See you on September 5th, in Bar-Shira hall at Tel-Aviv University.
 
 [Please register for a WIA ticket here](Register).
 
