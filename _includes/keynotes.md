@@ -3,11 +3,16 @@
 
 ## Keynote Speakers
 
-  {% for speaker in site.data.keynotes %}
+  {% for keynote in site.data.keynotes %}
 <img src="assets/img/{{ speaker.image }}" style="width:320px"> 
-### {{ speaker.name }}
-#### <em style="font-style: italic;">{{ speaker.company }}</em>
-#### <strong style="font-size:large; font-weight:300; text-decoration:underline;">{{ speaker.title }}</strong>
+### {{ keynote.name }}
+#### <em style="font-style: italic;">{{ keynote.company }}</em>
+{% if keynote.url %}
+#### <a href="{{ keynote.url }}" target="_blank">{{ keynote.title }}</a>
+{% else %}
+#### <strong style="font-size:large; font-weight:300; text-decoration:underline;">{{ keynote.title }}</strong>
+{% endif %}
+
 <br />
 
   {% endfor %} 
