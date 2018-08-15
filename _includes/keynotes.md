@@ -4,7 +4,7 @@
 ## Keynote Speakers
 
   {% for keynote in site.data.keynotes %}
-<img src="assets/img/{{ speaker.image }}" style="width:320px"> 
+<img src="assets/img/{{ keynote.image }}" style="width:320px"> 
 ### {{ keynote.name }}
 #### <em style="font-style: italic;">{{ keynote.company }}</em>
 {% if keynote.url %}
