@@ -2,7 +2,10 @@ platinum:
 - name : CyberArk
   url  : https://www.cyberark.com/
   image: Cyberark.png
-  
+- name : Deloitte 
+  url  : https://www2.deloitte.com/il/en.html
+  image: Deloitte.jpg
+
 gold:
 - name : Imperva
   url  : https://www.imperva.com/
@@ -29,7 +32,7 @@ silver:
   image: Twistlock.png
 - name : SeeHR
   url  : http://www.see-security.com/
-  image: SeeHR.jpg
+  image: SeeHR.png
 - name : SafeBreach
   url  : https://www.safebreach.com/
   image: SafeBreach.png
