@@ -8,6 +8,9 @@ This is a hands-on, crash course in application security for developers, QA engi
 
 The Training Day is free to attend, however [registration is required](Register). 
 
+**IMPORTANT NOTE:**
+During the training day cake and coffee will be served but lunch is **NOT** supplied. Therefore, it is recommended to bring something yourself or prepare to purchase something form the stores in the area.
+
 ### What is this Training about? 
 
 Application-level attacks have become the typical organization daily routine, with numerous automated attack &   
