@@ -71,6 +71,9 @@ community:
 - name : Kenna Security
   url  : https://www.kennasecurity.com/
   image: kennasecurity.png
+- name : Cobalt
+  url  : https://cobalt.io/services/pentest-service 
+  image: Cobalt.png
 
 alacarte:
 - name : Violet Sky
