@@ -2,7 +2,10 @@ platinum:
 - name : CyberArk
   url  : https://www.cyberark.com/
   image: Cyberark.png
-  
+- name : Deloitte 
+  url  : https://www2.deloitte.com/il/en.html
+  image: Deloitte.jpg
+
 gold:
 - name : Imperva
   url  : https://www.imperva.com/
@@ -10,20 +13,34 @@ gold:
 - name : WhiteSource
   url  : https://www.whitesourcesoftware.com/
   image: Whitesource.png  
+- name : Akamai
+  url  : https://www.akamai.com/
+  image: Akamai.png
 - name : AppSec Labs
   url  : https://www.appsec-labs.com/
   image: AppSecLabs.jpg
 - name : Checkmarx
   url  : https://www.checkmarx.com/ 
   image: Checkmarx.png
-  
+- name : PerimeterX
+  url  : https://www.perimeterx.com/
+  image: PerimeterX.png
+- name : JP Morgan Israel
+  url  : https://www.jpmorgan.com/country/IL/en/jpmorgan
+  image: JPMorgan.jpg
+
+training:
+- name : Check Point Software Technologies
+  url  : https://careers.checkpoint.com/index.php
+  image: Checkpoint.jpg
+
 silver: 
 - name : Twistlock
   url  : https://www.twistlock.com/
   image: Twistlock.png
 - name : SeeHR
   url  : http://www.see-security.com/
-  image: SeeHR.jpg
+  image: SeeHR.png
 - name : SafeBreach
   url  : https://www.safebreach.com/
   image: SafeBreach.png
@@ -42,7 +59,13 @@ silver:
 - name : Synopsys
   url  : https://www.synopsys.com/software/pages/default.aspx 
   image: synopsys.jpg
-  
+- name : Accenture 
+  url  : https://www.accenture.com/il-en/security-index
+  image: Accenture.png
+- name : PayPal
+  url  : https://jobsearch.paypal-corp.com/search?facetcountry=il&location=Tel%20Aviv
+  image: Paypal.jpeg
+
 community: 
 - name : Hak5
   url  : https://www.hak5.org/
@@ -54,7 +77,7 @@ community:
   url  : https://www.violetskysecurity.com
   image: VioletSky.png
 - name : Soluto
-  url : https://www.solutotlv.com/
+  url  : https://www.solutotlv.com/
   image: Soluto.png
 - name : Trustwave
   url  : https://www.trustwave.com/
@@ -62,6 +85,9 @@ community:
 - name : Kenna Security
   url  : https://www.kennasecurity.com/
   image: kennasecurity.png
+- name : Cobalt Labs
+  url  : https://cobalt.io/services/pentest-service 
+  image: Cobalt.png
 
 alacarte:
 - name : Violet Sky
@@ -76,6 +102,14 @@ alacarte:
   url  : https://www.cyberark.com/
   image: Cyberark.png
   type : Lanyards
+- name : Check Point Software Technologies
+  url  : https://careers.checkpoint.com/index.php
+  image: Checkpoint.jpg
+  type : Chill-out Zone
+- name : GE Digital
+  url  : https://www.ge.com/digital/
+  image: GE_digital.png
+  type : Badges
 - name : Dome9
   url  : https://dome9.com/
   image: Dome9.png

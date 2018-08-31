@@ -3,11 +3,7 @@
 
 ## Welcome to OWASP's {{ site.title }}! 
 
-### SAVE THE DATE!! 
-**{{ site.title }} will take place on {{ site.dates }} in central Tel Aviv.**
-
-#### The CFP and CFT have now opened!!   
-**Share your great minds with us at [our Call for Papers](CFP) or submit your ideas to teach and inspire a new wave of AppSec enthusiasts at our [Call for Training](CFT).**   
+**{{ site.title }} will take place on {{ site.dates }} at Tel Aviv University, in central Tel Aviv.**
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
 and regularly draws hundreds of participants. [Over 650 people attended last year](https://2017.appsecil.org)! 
@@ -29,7 +25,7 @@ If you are responsible for, or involved with:
 
   ... you should join us at AppSecIL!
 
-{{ site.title }} will have two lecture tracks from an amazing group of speakers, some hands-on workshops, and additional activities such as a Capture the Flag competition.   
+{{ site.title }} will have THREE lecture tracks from an amazing group of speakers, some hands-on workshops, and additional activities such as a Capture the Flag competition.   
 We also host a sponsors pavilion with vendor booths to promote the latest advances in security technology relevant to application security and developers.   
 
 {% include keynotes.md %}
