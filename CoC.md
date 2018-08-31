@@ -28,3 +28,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+
+### Family Friendly
+
+Please note that AppSec Israel is a family friendly conference. 
+
+If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise please take them to the side of the room, or outside if they are subtantially disturbing others.     
+
+Even if you are not bringing a child, please be considerate of those that are, and remain patient even if they are a little bit fussy. Ensure your behavior is appropriate around small children. 
