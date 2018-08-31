@@ -34,6 +34,9 @@ Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL
 
 **Attendance is free, but [registration is required](Register)!**
 
+Please note that AppSecIL is family friendly! If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise.    
+Unfortunately we were not able to offer on-site childcare this year.   
+
 ---
 
 ### Hosted by:  
