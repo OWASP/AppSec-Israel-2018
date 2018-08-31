@@ -30,13 +30,14 @@ We also host a sponsors pavilion with vendor booths to promote the latest advanc
 
 {% include keynotes.md %}
 
-<p style="font-weight: bolder;text-decoration: underline;">**Attendance is free, but [registration is required](Register)!**</p>
+**Attendance is free, but [registration is required](Register)!**
 
 Don't forget to use the [#AppSecIL hashtag](https://twitter.com/hashtag/AppSecIL) on social media!     
 
-<p style="font-weight: bolder;text-decoration: underline;">Please note that AppSecIL is family friendly!</p>
-If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise.    
+Please note that AppSecIL is family friendly! If you need to bring your baby with you in order to attend, please do so! We only request that you be sensitive to others close to you, if your child needs to make noise.    
 Unfortunately we were not able to offer on-site childcare this year.   
+
+Note: The auditorium and other classrooms are wheelchair accessible. Please notify a staff member if there are any problems
 
 ---
 

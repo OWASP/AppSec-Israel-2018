@@ -8,8 +8,10 @@
   url  : Training
 - title: WIA
   url  : WIA 
-- title: Activities
-  url  : Ctf
+- title: CTF
+  url  : ctf
+- title: CV Workshop
+  url  : Resume
 - title: Sponsors
   url  : Sponsors
 - title: Team
