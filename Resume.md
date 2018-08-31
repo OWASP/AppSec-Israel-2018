@@ -1,3 +1,6 @@
+---
+---
+
 ## Resume Review / CV Critique
 
 We have seen many talented young professionals in the AppSec field (and some not so young) miss out on great opportunities in which they would excel, and bring amazing value to their employers. Often, this is happens because of a lackluster resume or CV, which does not properly showcase their talent and abilities.  
