@@ -20,3 +20,18 @@ The challenge will be opened on Wednesday, September 5th, at 10am.
 
 Good Luck :)
 
+{% if site.data.sponsors.ctf %}
+<div class="sponsor-tier">
+  {% for sponsor in site.data.sponsors.ctf %}
+	<span class="sponsor community-sponsor">
+	  <a href="{{ sponsor.url }}" title="{{ sponsor.name }}" target="_blank">
+		{% if sponsor.image == %}
+		  <span>{{ sponsor.name }}</span>
+		{% else %}
+		  <img src="assets/img/Sponsors/{{ sponsor.image }}">
+		{% endif %}
+	  </a>
+	</span>
+{% endfor %}
+</div>
+{% endif %}
