@@ -115,3 +115,13 @@ alacarte:
   image: Dome9.png
   type : T-Shirts 
   
+ctf:
+- name : F5
+  url  : https://www.f5.com/
+  image: F5-logo.png
+  type : CTF
+- name : Scorpiones
+  url  : https://scorpiones.io/
+  image: Scorpiones.png
+  type : CTF
+
