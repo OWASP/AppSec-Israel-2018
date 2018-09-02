@@ -28,7 +28,7 @@ Good Luck :)
 		{% if sponsor.image == %}
 		  <span>{{ sponsor.name }}</span>
 		{% else %}
-		  <img src="assets/img/Sponsors/{{ sponsor.image }}">
+		  <img src="assets/img/Sponsors/{{ sponsor.image }}" style="padding: 4px;">
 		{% endif %}
 	  </a>
 	</span>
