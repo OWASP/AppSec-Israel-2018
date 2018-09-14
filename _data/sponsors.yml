@@ -29,10 +29,6 @@ gold:
   url  : https://www.jpmorgan.com/country/IL/en/jpmorgan
   image: JPMorgan.jpg
 
-training:
-- name : Check Point Software Technologies
-  url  : https://careers.checkpoint.com/index.php
-  image: Checkpoint.jpg
 
 silver: 
 - name : Twistlock
