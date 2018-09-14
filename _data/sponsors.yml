@@ -98,10 +98,6 @@ alacarte:
   url  : https://www.cyberark.com/
   image: Cyberark.png
   type : Lanyards
-- name : Check Point Software Technologies
-  url  : https://careers.checkpoint.com/index.php
-  image: Checkpoint.jpg
-  type : Chill-out Zone
 - name : GE Digital
   url  : https://www.ge.com/digital/
   image: GE_digital.png
