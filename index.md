@@ -3,6 +3,11 @@
 
 ## Welcome to OWASP's {{ site.title }}! 
 
+### Get Ready Autumn 2020 - more details soon to be uncovered
+<img src="assets/img/sticker2020.jpeg" style="width:20em; margin-left:-0.75em;">
+
+---
+
 **{{ site.title }} will take place on {{ site.dates }} at Tel Aviv University, in central Tel Aviv.**
 
 The annual OWASP AppSec Israel Conference is the largest conference in Israel for application security,  
