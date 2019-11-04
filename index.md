@@ -4,7 +4,7 @@
 ## Welcome to OWASP's {{ site.title }}! 
 
 ### Get Ready Autumn 2020 - more details soon to be uncovered
-<img src="assets/img/sticker2020.jpeg" style="width:20em; margin-left:-0.75em;">
+<img src="assets/img/sticker2020.jpeg" >
 
 ---
 
